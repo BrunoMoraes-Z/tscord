@@ -21,6 +21,6 @@
     "@typeit/discord": "^4.0.8",
     "cheerio": "^1.0.0-rc.2",
     "discord.js": "^12.2.0",
-    "node-fetch": "^1.7.3"
+    "node-fetch": ">=2.6.1"
   }
 }
